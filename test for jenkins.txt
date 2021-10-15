@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-file created to test jenkins.
-=======
+
 file created to test jenkins. modified in git --->verified
->>>>>>> fe55a597c22eda85fa40159aad81404f86e0856a
+
